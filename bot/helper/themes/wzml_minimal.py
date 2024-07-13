@@ -2,21 +2,21 @@
 class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
-    ST_BN1_NAME = 'Repo'
-    ST_BN1_URL = 'https://www.github.com/weebzone/WZML-X'
-    ST_BN2_NAME = 'Updates'
-    ST_BN2_URL = 'https://t.me/WZML_X'
+    ST_BN1_NAME = '🔥 MASTER 🔥'
+    ST_BN1_URL = 'https://t.me/nafisfuad1'
+    ST_BN2_NAME = '♦️ GROUP ♦️'
+    ST_BN2_URL = 'https://t.me/gdrive_mirror'
     ST_MSG = '''<i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
-<b>Type {help_command} to get a list of available commands</b>'''
-    ST_BOTPM = '''<i>Now, This bot will send all your files and links here. Start Using ...</i>'''
-    ST_UNAUTH = '''<i>You Are not authorized user! Deploy your own WZML-X Mirror-Leech bot</i>'''
+<b>Type {help_command} to get a list of available commands</b>\n MADE WITH ❤️ BY @Nafisfuad1'''
+    ST_BOTPM = '''<i>Now, This bot will send all your files and links here. Start Using ...\n MADE WITH ❤️ BY @Nafisfuad1</i>'''
+    ST_UNAUTH = '''<i>You Are not authorized user! \n MADE WITH ❤️ BY @Nafisfuad1</i>'''
     OWN_TOKEN_GENERATE = '''<b>Temporary Token is not yours!</b>\n\n<i>Kindly generate your own.</i>'''
     USED_TOKEN = '''<b>Temporary Token already used!</b>\n\n<i>Kindly generate a new one.</i>'''
     LOGGED_PASSWORD = '''<b>Bot Already Logged In via Password</b>\n\n<i>No Need to Accept Temp Tokens.</i>'''
     ACTIVATE_BUTTON = 'Activate Temporary Token'
     TOKEN_MSG = '''<b><u>Generated Temporary Login Token!</u></b>
 <b>Temp Token:</b> <code>{token}</code>
-<b>Validity:</b> {validity}'''
+<b>Validity:</b> {validity}\n MADE WITH ❤️ BY @Nafisfuad1'''
     # ---------------------
     # async def token_callback(_, query): ---> __main__.py
     ACTIVATED = '✅️ Activated ✅'
